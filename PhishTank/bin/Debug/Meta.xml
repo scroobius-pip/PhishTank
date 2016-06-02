@@ -1,0 +1,27 @@
+<entries>
+
+<entry>
+  <url>http://www.hsbcempresasonline.com</url>
+  <phish_id>4006124</phish_id>
+  <phish_detail_url>http://www.phishtank.com/phish_detail.php?phish_id=4006124</phish_detail_url>
+  <details>
+    <detail>
+      <ip_address>122.155.135.207</ip_address>
+      <cidr_block>122.155.128.0/20</cidr_block>
+      <announcing_network>9931</announcing_network>
+      <rir>apnic</rir>
+      <detail_time>2016-04-26T20:55:55+00:00</detail_time>
+    </detail>
+  </details>
+  <submission>
+    <submission_time>2016-04-26T20:20:13+00:00</submission_time>
+  </submission>
+  <verification>
+    <verified>yes</verified>
+    <verification_time>2016-04-26T20:56:26+00:00</verification_time>
+  </verification>
+  <status>
+    <online>yes</online>
+  </status>
+  <target>Other</target>
+</entry></entries>

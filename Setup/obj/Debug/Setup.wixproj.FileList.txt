@@ -1,0 +1,6 @@
+obj\Debug\Product.wixobj
+C:\Users\simdi jinkins\Documents\Visual Studio 2015\Projects\PhishTank\Setup\bin\Debug\Setup.msi
+C:\Users\simdi jinkins\Documents\Visual Studio 2015\Projects\PhishTank\Setup\bin\Debug\Setup.wixpdb
+obj\Debug\Setup.wixproj.BindContentsFileListnull.txt
+obj\Debug\Setup.wixproj.BindOutputsFileListnull.txt
+obj\Debug\Setup.wixproj.BindBuiltOutputsFileListnull.txt
